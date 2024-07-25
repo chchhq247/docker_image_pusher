@@ -7,3 +7,5 @@ xhofe/alist:latest
 xiaoyaliu/alist
 amilys/embyserver
 portainer/portainer-ce
+linuxserver/jackett
+dreamacro/clash
