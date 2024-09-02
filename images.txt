@@ -10,3 +10,4 @@ portainer/portainer-ce
 linuxserver/jackett
 dreamacro/clash
 herberthe0229/iptv-sources
+fooololo/aipan-netdisk-search
