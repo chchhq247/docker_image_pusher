@@ -13,3 +13,5 @@ herberthe0229/iptv-sources
 fooololo/aipan-netdisk-search
 linuxserver/prowlarr
 hsuyelin/nas-tools
+ekkoye8888/hermes-web-ui
+nousresearch/hermes-agent
